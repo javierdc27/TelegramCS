@@ -1,4 +1,3 @@
-![WhatsApp Image 2021-10-13 at 6 18 39 PM](https://user-images.githubusercontent.com/92422984/137228612-56c96726-32ff-4d46-8da4-53a08f490f33.jpeg)
 # Telegram
 Telegram es una aplicación que se encuentra enfocada en la mensajería instantánea, el envío de varios archivos y la comunicación en general (incluyendo llamadas vía telegram).
 En el presente trabajo, nos enfocaremos en sus funcionalidades existentes y a mejorar.
@@ -19,3 +18,4 @@ En el presente trabajo, nos enfocaremos en sus funcionalidades existentes y a me
 ![137180210-b03c2fc2-d3e5-4692-945f-dcd421e6a5ab](https://user-images.githubusercontent.com/77464776/137215895-6a4d1554-5ffc-4d4d-a29f-1cd58c0e6353.png)
 ![137183308-4f20eb02-d54a-42b0-b670-1a7dec7cff2a](https://user-images.githubusercontent.com/77464776/137215911-1962ec68-6464-4782-b43a-29a9d2564c74.png)
 ![WhatsApp Image 2021-10-13 at 4 28 11 PM](https://user-images.githubusercontent.com/77464776/137215933-1c8bf7f1-a57b-4806-8ae5-157454298072.jpeg)
+![WhatsApp Image 2021-10-13 at 6 18 39 PM](https://user-images.githubusercontent.com/92422984/137228612-56c96726-32ff-4d46-8da4-53a08f490f33.jpeg)

@@ -15,3 +15,6 @@ En el presente trabajo, nos enfocaremos en sus funcionalidades existentes y a me
 ![WhatsApp Image 2021-10-13 at 12 59 03 AM](https://user-images.githubusercontent.com/77464776/137080292-904e3cd9-2d20-402b-9161-396783c3d5b7.jpeg)
 ![WhatsApp Image 2021-10-13 at 12 59 03 AM (1)](https://user-images.githubusercontent.com/77464776/137080305-67eacb42-b5b3-4f9b-aad0-34b45af05775.jpeg)
 
+![137180210-b03c2fc2-d3e5-4692-945f-dcd421e6a5ab](https://user-images.githubusercontent.com/77464776/137215895-6a4d1554-5ffc-4d4d-a29f-1cd58c0e6353.png)
+![137183308-4f20eb02-d54a-42b0-b670-1a7dec7cff2a](https://user-images.githubusercontent.com/77464776/137215911-1962ec68-6464-4782-b43a-29a9d2564c74.png)
+![WhatsApp Image 2021-10-13 at 4 28 11 PM](https://user-images.githubusercontent.com/77464776/137215933-1c8bf7f1-a57b-4806-8ae5-157454298072.jpeg)

@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-10-13 at 6 18 39 PM](https://user-images.githubusercontent.com/92422984/137228612-56c96726-32ff-4d46-8da4-53a08f490f33.jpeg)
 # Telegram
 Telegram es una aplicación que se encuentra enfocada en la mensajería instantánea, el envío de varios archivos y la comunicación en general (incluyendo llamadas vía telegram).
 En el presente trabajo, nos enfocaremos en sus funcionalidades existentes y a mejorar.

@@ -5,7 +5,7 @@ En el presente trabajo, nos enfocaremos en sus funcionalidades existentes y a me
 #Funciones
 
 ![image](https://user-images.githubusercontent.com/77464776/137080247-f1a553f4-e087-4c3d-890c-3514451111c8.png)
-
+![image](https://user-images.githubusercontent.com/77464776/137216647-ca6e34bd-91bb-4811-b145-65bc257fb503.png)
 ![telegram](https://user-images.githubusercontent.com/92422984/137209236-47464f04-bc1e-4361-b38a-0ca2394658fc.PNG)
 
 #Prototipos
